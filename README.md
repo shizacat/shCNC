@@ -34,5 +34,7 @@ OpenSource CNC Software
  - [G-code (Wiki En)](https://en.wikipedia.org/wiki/G-code)
  - [G-code (Wiki Ru)](https://ru.wikipedia.org/wiki/G-code)
  - [Fanuc DNC 2 Description](http://www2.i-logic.com/manuals/Fanuc%20DNC%202%20Description.pdf)
+ - [Universal-G-Code-Sender](https://github.com/johnlauer/Universal-G-Code-Sender)
+ - [grbl](https://github.com/gnea/grbl)
  - [OpenDNC](https://github.com/AnirudhPal/OpenDNC)
  - [Maslow](http://www.maslowcnc.com/)
